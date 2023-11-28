@@ -63,7 +63,7 @@ class _CoursesScreenState extends State<CoursesScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Courses List"),
+        title: const Text("181208"),
         backgroundColor: Theme.of(context).colorScheme.inversePrimary ,
       ),
       body: ListView.builder(
