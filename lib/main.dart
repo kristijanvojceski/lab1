@@ -83,7 +83,7 @@ class _CoursesScreenState extends State<CoursesScreen> {
           );
         }),
       floatingActionButton: FloatingActionButton(onPressed: addCourse,
-        backgroundColor: Colors.blueAccent,
+        backgroundColor: Colors.lightBlue,
         child: const Icon(Icons.add_box_outlined),
       ),
     );
